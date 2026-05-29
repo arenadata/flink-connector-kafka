@@ -55,3 +55,4 @@ flink-python/dev/lint-python.sh
 flink-python/dev/build-wheels.sh
 flink-python/dev/glibc_version_fix.h
 flink-python/dev/dev-requirements.txt
+pom.xml.versionsBackup
